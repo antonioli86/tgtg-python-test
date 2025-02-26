@@ -231,7 +231,7 @@ class TgtgClient:
         hidden_only=False,
         we_care_only=False,
     ):
-        self.login()
+  #      self.login()
 
         # fields are sorted like in the app
         data = {
